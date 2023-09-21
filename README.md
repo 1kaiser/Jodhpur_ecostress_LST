@@ -24,7 +24,7 @@ clipped GRACE MAP 🌊 using DEM outline
 </div>
 RAINFALL MAP ⛈️ from lat,lon,rain values 
   <div style="text-align: center;">
-<img src="https://github.com/1kaiser/Jodhpur_ecostress_LST/assets/26379748/1516723b-1b3b-4fd9-8733-5b0b91f6c1b7" width="70%" >
+<img src="https://github.com/1kaiser/Jodhpur_ecostress_LST/assets/26379748/0b577792-4b95-46ae-a3a4-d1a13f97154b" width="70%" >
 </div>
 TEMPERATURE MAP 🌡️
 <div style="text-align: center;">
