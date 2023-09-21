@@ -1,4 +1,4 @@
-# <div align="center">🌡️ Jodhpur_ecostress_LST 🌡️</div>
+# <div align="center">🗻 Jodhpur ecostress LST 🌡️</div>
 
 
 <table>
